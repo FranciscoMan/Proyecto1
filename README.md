@@ -7,7 +7,7 @@ un par de imagenes similes.
 
 Como agregado nosotros incluimos la implementacion de un hipervinculo hacia el sitio web del negocio a mostrar.
 ![Una imagen cualquiera](https://github.com/FranciscoMan/Proyecto1/blob/master/resultado.png "Muestra")
-
+***
 ## Archivo de diseño XML
 ~~~
 <?xml version="1.0" encoding="utf-8"?>
@@ -104,5 +104,6 @@ Como agregado nosotros incluimos la implementacion de un hipervinculo hacia el s
 ![Una imagen cualquiera](top.png "cabecera")
 ## Imagen de pie
 ![Una imagen cualquiera](bot.png "Muestra")
+***
 Dichas imagenes deben ser puestas dentro de la carpeta del siguiente directorio:
 C:\*ubicacion del proyecto*\app\src\main\res\drawable
