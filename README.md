@@ -8,3 +8,5 @@ un par de imagenes similes.
 Como agregado nosotros incluimos la implementacion de un hipervinculo hacia el sitio web del negocio a mostrar.
 ![Una imagen cualquiera](https://github.com/FranciscoMan/Proyecto1/blob/master/resultado.png "Muestra")
 
+## Archivo de diseño XML
+![Diseño](https://github.com/FranciscoMan/DisplaySerial/blob/master/activity_main.xml "XML")
